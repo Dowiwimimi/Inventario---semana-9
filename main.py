@@ -3,7 +3,7 @@ from modelos.producto import Producto
 
 
 def mostrar_menu():
-    print("Bienvenidos al sistema de gestión de inventarios")
+    print("\n Bienvenidos al sistema de gestión de inventarios \n")
     print("1. Añadir producto")
     print("2. Eliminar producto")
     print("3. Actualizar producto")
